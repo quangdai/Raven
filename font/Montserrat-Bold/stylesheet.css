@@ -1,0 +1,8 @@
+﻿/* @font-face kit by Fonts2u (http://www.fonts2u.com) */ 
+@font-face {font-family:"Montserrat-Bold";
+			src:url("Montserrat-Bold.eot?") format("eot"),
+			url("../font/Montserrat-Bold/Montserrat-Bold.woff") format("woff"),
+			url("../font/Montserrat-Bold/Montserrat-Bold.ttf") format("truetype"),
+			url("../font/Montserrat-Bold/Montserrat-Bold.svg#Montserrat-Bold") format("svg");
+			font-weight:normal;font-style:normal;
+		}
